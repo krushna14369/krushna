@@ -2220,6 +2220,7 @@ function Sprite(pInst, _x, _y, _w, _h) {
    * onMouseOver, onMouseOut, onMousePressed, onMouseReleased
    *
    * @method mouseUpdate
+   * 
    */
   this.mouseUpdate = function() {
     var mouseWasOver = this.mouseIsOver;
